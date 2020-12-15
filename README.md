@@ -38,7 +38,7 @@ Hi, I'm Abdi Hassan, a passionate self-taught frontEnd Bot/Web developer from No
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=justabdi&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=justabdi&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Abdi's Github Stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -49,7 +49,7 @@ Hi, I'm Abdi Hassan, a passionate self-taught frontEnd Bot/Web developer from No
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=justabdi&repo=github-readme-stats&theme=material-palenight" />
 </a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/Justabdi/justabdi.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=justabdi&repo=anuraghazra.github.io&theme=material-palenight" />
 </a>
