@@ -6,7 +6,7 @@
 <a href="https://twitter.com/JustBeingAbdi">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/">
+<a href="https://discord.gg/dYCb34Sy6f">
   <img align="left" alt="Abdi Hassan Discord's" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
@@ -15,8 +15,8 @@
 
 Hi, I'm Abdi Hassan, a passionate self-taught frontEnd Bot/Web developer from Norway.
 
-- 🔭 I’m currently working on [Vertex](https://vertexbot.gq)
-- 🌱 I’m currently learning Typescript & C#)
+- 🔭 I’m currently working on [TicketBoi](https://ticketboi.xyz?from=github)
+- 🌱 I’m currently learning C# + c++)
 - 💬 Ask me about anything [here](https://github.com/justabdi/justabdi/issues)
 
 **Languages and Tools:**  
