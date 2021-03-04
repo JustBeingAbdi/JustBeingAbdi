@@ -6,9 +6,7 @@
 <a href="https://twitter.com/JustBeingAbdi">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/dYCb34Sy6f">
-  <img align="left" alt="Abdi Hassan Discord's" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+
 
 <br />
 <br />
