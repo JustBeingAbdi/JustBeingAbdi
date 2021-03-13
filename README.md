@@ -1,4 +1,4 @@
-### Hi there, I'm [Abdi](https://justabdi.github.io) 👋
+### Hi there, I'm [Abdi](https://www.justbeingabdi.cf) 👋
 
 <a href="https://codesandbox.io/u/JustBeingABDI">
   <img align="left" alt="Abdi Hassan | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
