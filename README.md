@@ -41,4 +41,7 @@ Hi, I'm Abdi Hassan, a passionate self-taught frontEnd Bot/Web developer from No
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=justbeingabdi&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Abdi's Github Stats" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
   
-  <img align="center" src="https://camo.githubusercontent.com/62f8d68a381acc0e700d0c8a130779742f94c45d2ba7ae8085644406fcbb63e1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a75737461626469266c61796f75743d636f6d70616374267468656d653d6d6174657269616c2d70616c656e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=justbeingabdi&amp;layout=compact&amp;theme=material-palenight" style="max-width:100%;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=justbeingabdi&layout=compact&theme=material-palenight" />
+</a>
