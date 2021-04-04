@@ -11,10 +11,10 @@
 <br />
 <br />
 
-Hi, I'm Abdi Hassan, a passionate self-taught frontEnd Bot/Web developer from Norway.
+Hi, I'm Abdi Hassan, a passionate self-taught developer from Norway.
 
 - 🔭 I’m currently working on Multiple Different Projects
-- 🌱 I’m currently learning C# + c++)
+- 🌱 I’m currently learning C# + c++
 - 💬 Ask me about anything [here](https://github.com/justbeingabdi/justabdi/issues) or via <a href="mailto:contact@justbeingabdi.cf">Email</a>
 
 **Languages and Tools:**  
